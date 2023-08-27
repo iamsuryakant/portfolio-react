@@ -53,7 +53,7 @@ const Home = () => {
               <img className='w-28 mx-auto ' src={profilePic} alt='profile-pic'/>
               <div className=''>
                   <h1 className='mt-2 font-sans font-bold text-4xl flex items-center justify-center'>Suryakant Thakur</h1>
-                  <div className='mt-2 font-serif text-2xl flex items-center justify-center'>I'm a <span className='ml-2 text-red-600' ref={el}></span></div>
+                  <div className='mt-2 font-serif text-2xl flex items-center justify-center'>I'm a <span className='ml-2 text-red-600 dotted' ref={el}></span></div>
               </div>
               
           </div>
